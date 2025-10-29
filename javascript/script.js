@@ -1,4 +1,3 @@
-
-console.log("hello")
-console.log(9+4)
-alert("you are hacked")
+var a="hello
+";
+console.log(typeof(a));
